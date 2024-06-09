@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Holla, Mipow Here,<br>This is a boy who is in the process of becoming someone who continues to learn from a small place called Krajan</h2>
+<h2 align="center">Seseorang yang berusaha untuk lebih baik dari hari kemarin.</h2>
 
 ###
 
