@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Seseorang yang berusaha untuk lebih baik dari hari kemarin.</h2>
+<h2 align="center">Someone who strives to be better than yesterday.</h2>
 
 ###
 
