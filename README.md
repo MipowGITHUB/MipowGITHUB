@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at Universitas Muhammadiyah Malang<br>👯 I’m interested in collaborating on projects related <br>to Web Development, Data Analytics, and Cybersecurity.<br>🌱  I am someone who constantly strives to be better than yesterday in all aspects of my life.<br>
+🔭 I’m currently studying at Universitas Muhammadiyah Malang<br>👯 I’m interested in collaborating on projects related to Web Development, Data Analytics, and Cybersecurity.<br>🌱  I am someone who constantly strives to be better than yesterday in all aspects of my life.<br>
 
 
 # 💻 Tech Stack:
